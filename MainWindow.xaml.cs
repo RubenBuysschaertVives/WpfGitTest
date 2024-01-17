@@ -20,6 +20,8 @@ namespace WpfGitTest
     /// </summary>
     public partial class MainWindow : Window
     {
+        const int days = 7;
+
         public MainWindow()
         {
             InitializeComponent();
